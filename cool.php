@@ -3,5 +3,6 @@
 print_r($_FILES);
 echo "good";
 echo "cool";
+echo "noe changes";
 die; 
 ?>
